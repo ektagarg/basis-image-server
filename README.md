@@ -10,4 +10,4 @@ go run server.js
 ## Usage
 You can find the api endpoint here:
 
-https://www.getpostman.com/collections/cb670d4eef94644a2c6b
+https://documenter.getpostman.com/view/370843/S1a7V58p
