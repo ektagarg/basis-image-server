@@ -2,9 +2,9 @@
 A Golang server to convert .png files into .basis format 
 
 ## Setup
-To run this project, you should have Go installed ain your system, then run this
+To run this project, you should have Go installed gin your system, then run this
 ``` 
-go run server.js 
+go run server.go
 ```
 
 ## Usage
